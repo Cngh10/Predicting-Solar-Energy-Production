@@ -2,6 +2,24 @@
 
 A comprehensive machine learning application that predicts annual photovoltaic (PV) energy production using advanced XGBoost algorithms and interactive Streamlit interface.
 
+## 📸 Application Screenshots
+
+### 🏠 Home Dashboard
+![Home Dashboard](screenshots/home-dashboard.png)
+*Main dashboard showing project overview, statistics, and navigation options*
+
+### 🔮 Prediction Interface
+![Prediction Interface](screenshots/predictive-interface.png)
+*Interactive form for entering solar system specifications and viewing predictions*
+
+### 📊 Data Analysis
+![Data Analysis](screenshots/data-analysis.png)
+*Comprehensive data visualizations and statistical analysis of solar energy projects*
+
+### 📈 Model Performance
+![Model Performance](screenshots/model-performance.png)
+*Detailed model metrics, feature importance, and performance comparisons*
+
 ## 🚀 Quick Start
 
 ### Prerequisites
